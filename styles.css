@@ -85,7 +85,7 @@ a {
   z-index: 10;
   top: 0;
   border-bottom: 1px solid rgb(229 226 242 / 0.82);
-  background: rgb(250 249 255 / 0.88);
+  background: #ffffff;
   backdrop-filter: blur(18px);
 }
 .header-inner {
